@@ -14,4 +14,4 @@ quantities==0.10.1
 semantic==1.0.1
 six==1.6.1
 ws4py==0.3.2
-requests==2.1.0
+requests==2.20.0
